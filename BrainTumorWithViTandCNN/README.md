@@ -2,6 +2,9 @@
 
 This repository contains code for classifying brain tumor images using **ViT (Vision Transformer)** and a simple **CNN**. The dataset consists of a small number of labeled images, with each class stored in separate folders.
 
+## Dataset Link
+-https://drive.google.com/drive/folders/12vZRYJpEiFnpl_97c34bjA718nAvBQ6w?usp=sharing
+
 ## Models
 
 - **CNN**  
