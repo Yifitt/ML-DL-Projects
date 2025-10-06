@@ -12,3 +12,11 @@ A simple Streamlit app that recommends research papers based on your query using
 - Fast recommendations using precomputed embeddings.
 
 ---
+
+## Dataset:
+
+- https://www.kaggle.com/datasets/nechbamohammed/research-papers-dataset
+
+## Model:
+
+- https://drive.google.com/file/d/18QZY4fSpMfeKyvOu_0As_pfNvid2-FFd/view?usp=drive_link
