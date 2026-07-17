@@ -1,2 +1,2 @@
 # ML-DL-Projects
-Some ML and DL projects that i did
+Some ML and DL projects that I did
